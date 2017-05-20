@@ -1,6 +1,6 @@
 # Voice App Landing Page
 Free Landing Page Bootstrap Template for Alexa Skills and Google Actions
-Find the demo here: https://www.jovo.tech/resources/voice-landing-page/
+Find the demo here: https://www.jovo.tech/downloads/voice-landing-page/
 
 ## About this Template
 We believe it's very valuable for almost every Alexa skill or Google Action to have a landing page or website.
