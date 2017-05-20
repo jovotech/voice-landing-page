@@ -35,6 +35,11 @@ section {
 	border: none;
 }
 
+
+.navbar-default .navbar-brand, .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+	padding-top: 10px;
+}
+
 .navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>li>a:active, .navbar-default .navbar-nav>li>a:focus {
 	color:white;
 }
@@ -43,9 +48,6 @@ section {
 	color: #0099FF;
 }
 
-.navbar-brand img {
-	max-width: 30px;
-}
 
 .navbar-default .navbar-toggle {
 	border-color: white;
@@ -138,6 +140,15 @@ section {
 	max-width: 300px;
 }
 
+#benefits .alexa {
+	margin-top: -350px;
+	max-height: 350px;
+}
+
+#benefits .google-home {
+	margin-top: -286px;
+	max-height: 240px;
+}
 
 
 /* Features */
@@ -250,6 +261,20 @@ footer {
 	#benefits .devices {
 		margin: -126px auto 0;
 		max-width: 300px;
+		float:none!important;
+
+	}	
+
+	#benefits .alexa {
+		margin: -100px auto 0;
+		max-height: 250px;
+		float:none!important;
+
+	}	
+
+	#benefits .google-home {
+		margin: -107px auto 0;
+		max-width: 250px;
 		float:none!important;
 
 	}	
